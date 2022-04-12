@@ -1,0 +1,17 @@
+{
+    "pomodoroLength":   25,
+    "shortBreakLength":  5,
+    "longBreakLength":  15,
+    "pomodoroCmd": {
+        "cmd": "say",
+        "args": ["Start working"]
+    },
+    "shortBreakCmd": {
+        "cmd": "say",
+        "args": ["Take a 5 minute break"]
+    },
+    "longBreakCmd": {
+        "cmd": "say",
+        "args": ["Take a 15 minutes break"]
+    }
+}

@@ -2,7 +2,7 @@
 
 Command-line application for Pomodoro technique time tracking.
 
-![tmt demo](examples/demo.gif)
+![tmt demo](example/demo.gif)
 
 ## Overview
 
